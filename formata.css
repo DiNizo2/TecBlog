@@ -1,0 +1,50 @@
+* {padding: 0; margin: 0;} /** recurso para anular formatações pré-aplicadas**/
+
+body {background: background: #e6e6e6; text-align: center; font-family: "Arial", Verdana, Helvetica, Sans-serif ;}
+
+/** MENU formatação **/
+#principal-menu {background: #FBBD01; padding: 10px;}
+
+#nome, #links-todos{padding: 10px; margin: 5px;}
+
+#links-inicio {padding: 5px; margin: 5px;}
+
+.branco {color: white;}
+
+	a {text-decoration: none; font-weight: bold;}
+
+	#principal-menu a:link, #principal-menu a:visited {color: white;}
+
+	#principal-menu a:hover {background: white; color: #FBBD01; text-decoration: none;}
+/** FIM MENU formatação **/
+
+/** PÁGINA PRINCIPAL **/
+
+#pagina-principal {width: 900px; margin: 20px auto;}
+
+.barra-central {margin-bottom: 40px; width: 630px; float: left; text-align: left;}
+
+.barra-lateral {width: 230px; float: right; text-align: left; font-size: 0.8em; padding: 10px;}
+
+#direitos {clear: both; font-weight: bold; padding: 10px;}
+
+.imagens {width: 600px; padding-bottom: 10px;}
+
+.data {font-size: 0.8em; display: block; margin-bottom: 10px; padding-bottom: 10px; font-weight: bold;}
+
+.espaco{margin-top: 60px;}
+
+h2 {color: #FBBD01;}
+
+a:link, a:visited{color: #FBBD01;}
+
+a:hover {text-decoration: underline;}
+
+.cinza {background: #CCCBCB; padding: 5px;}
+
+
+
+
+
+
+
